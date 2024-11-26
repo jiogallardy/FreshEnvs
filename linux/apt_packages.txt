@@ -1,0 +1,8 @@
+curl
+wget
+tree
+xclip
+git
+vim
+build-essential
+thefuck
